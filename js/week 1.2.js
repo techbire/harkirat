@@ -47,3 +47,22 @@
 
 
 
+//doubling the array
+// let arr=[2,3,4,5];
+// console.log(arr);
+// let brr=[];
+// for(let i=0;i<arr.length;i++){
+//     brr[i]=arr[i]*2;
+// }
+// console.log(brr);
+
+
+
+
+//filter out even number
+// let arr=[2,3,45,657,26,464,1,5];
+// arr=arr.filter(function(ele){
+//     if(ele%2==0) return true;
+//     else return false;
+// })
+// console.log(arr);
